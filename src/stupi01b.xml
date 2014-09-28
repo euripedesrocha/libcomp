@@ -1,0 +1,39 @@
+<component refname="U" compname="STULPI01B" package="DIP">
+	D1,B
+	D2,B
+	D3,B
+	CLK,O
+	D4,B
+	D5,B
+	D0,B
+	VDVIO,W
+	VDVIO,W
+	GND,W
+	VDVIO,W
+	D6,B
+	DM,B
+	RREF,B
+	CSn/PWRDN,I
+	RESETn,I
+	GND,W
+	D7,B
+	DP,B
+	GND,W
+	ID,I
+	PSWn,O
+	NXT,O
+	STP,I
+	GND,W
+	VB_REF_FAULT,I
+	3V3V,w
+	GND,W
+	DIR,O
+	1V2V,w
+	NC,N
+	NC,N
+	VBAT,W
+	VBUS,B
+	XI,I
+	XO,O
+</component>
+

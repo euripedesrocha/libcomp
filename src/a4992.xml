@@ -1,0 +1,24 @@
+<component refname="U" compname="A4992" package="DIP">
+	SENSA,I	
+	OAP,O   
+	RESETn,I
+	DIR,I  
+	REF,I
+	AGND,W 
+	MS,I   
+	OBP,O
+	PGND,W	
+	SENSB,I
+	VBB,W
+	OBM,O 
+	VREG,W
+	DIAG,O 
+	STEP,I	
+	VCP,W
+	CP1,O  
+	CP2,O   
+	OAM,O  
+	VBB,W
+	PAD,W
+	NC,N # overcome odd number of pins :
+</component> 

@@ -1,0 +1,26 @@
+<component refname="U" compname="ADS8331" package="DIP">
+	IN1,I
+	IN2,I
+	IN3,I
+	NC,N
+	NC,N
+	NC,N
+	NC,N
+	~RESET,I
+	EOC/~INT/CDI,B
+	SCLK,I
+	FS/~CS,I
+	SDI,I
+	SDO,O
+	DGND,W
+	~CONVST,I
+	VBD,W
+	VA,W
+	REF+,I
+	REF-,W
+	AGND,W
+	ADCIN,I
+	MUXOUT,O
+	COM,I
+	IN0,I
+</component>

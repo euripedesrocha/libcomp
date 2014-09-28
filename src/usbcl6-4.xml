@@ -1,0 +1,9 @@
+<component refname="U" compname="USBCL6-4" package="DIP">
+	IO1,B
+	GND,W
+	IO2,B
+	IO3,B
+	VBUS,w
+	IO4,B
+</component>
+
