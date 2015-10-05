@@ -1,0 +1,10 @@
+<component refname="M" compname="FDS6670A" package="DIP">
+	S,I
+	S,I
+	S,I
+	G,W
+	D,I
+	D,I
+	D,I
+	D,I
+</component>

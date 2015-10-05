@@ -1,0 +1,34 @@
+<component refname="U" compname="pcm3070i" package="DIP" >
+	MCLK,I
+	BCLK,B
+	WCLK,B
+	DIN/MPF1,I
+	DOUT/MPF2,O
+	IOVDD,W
+	IOVSS,W
+	SCLK/MPF3,I
+	SCL/~SS,I
+	SDA/MOSI,I
+	MISO/MPF4,O
+	SPI_SELECT,I
+	IN1_L,I
+	IN1_R,I
+	IN2_L,I
+	IN2_R,I
+	AVSS,W
+	REF,O
+	NC,N
+	IN3_L,I
+	IN3_R,I
+	LOL,O
+	LOR,O
+	AVDD,W
+	HPL,O
+	LDOIN/HPVDD,W
+	HPR,O
+	DVSS,W
+	DVDD,W
+	LDO_SELECT,I
+	~RESET,I
+	GPIO/MPF5,I
+</component>

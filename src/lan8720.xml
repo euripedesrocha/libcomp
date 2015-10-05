@@ -1,0 +1,26 @@
+<component refname="U" compname="LAN8720" package="DIP">
+	VDD2A,W
+	LED2,I
+	LED1,I
+	XTAL2,I
+	XTAL1,I
+	VDDCR,W
+	RXD1/MODE1,B
+	RXD0/MODE0,B
+	VDDIO,W
+	RXHER/PHYAD0,B
+	CRS_DV/MODE2,B
+	MDIO,B
+	MDC,I
+	nINT/REFCLKO,B
+	nRST,I
+	TXEN,I
+	TXD0,I
+	TXD1,I
+	VDD1A,W
+	TXN,B
+	TXP,B
+	RXN,B
+	RXP,B
+	RBIAS,w
+</component>

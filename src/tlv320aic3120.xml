@@ -1,0 +1,34 @@
+<component refname="U" compname="tlv320aic3120" package="DIP" >
+	IOVSS,W
+	IOVDD,W
+	DVDD,W
+	DOUT,O
+	DIN,I
+	WCLK,B
+	BCLK,B
+	MCLK,W
+	SDA,B
+	SCL,B
+	VOL/MICDET,I
+	MICBIAS,I
+	MIC1LP,O
+	MIC1RP,I
+	MIC1LM,I
+	AVSS,W
+	AVDD,W
+	DVSS,W
+	SPKM,O
+	SPKVSS,W
+	SPKVDD,W
+	SPKP,O
+	SPKM,O
+	SPKVDD,W
+	SPKVSS,W
+	SPKP,O
+	HPOUT,O
+	HPVDD,O
+	HPVSS,W
+	NC,I
+	RESET,I
+	GPIO1,B
+</component>

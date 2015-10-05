@@ -1,0 +1,34 @@
+<component refname="U" compname="ATSAMR21E1x" package="DIP">
+    XTAL2,B
+    XTAL1,B
+    GNDANA,w
+    VDDANA,w
+    AVDD,w
+    GNDANA,w
+    PA6,B
+    PA7,B
+    PA8,B
+    PA9,B
+    GNDANA,w
+    RFP,B
+    RFN,B
+    GNDANA,w
+    PA14,B
+    PA15,B
+    PA16,B
+    PA17,B
+    PA18,B
+    PA19,B
+    DVDD,w
+    PA24,B
+    PA25,B
+    VDDIO,w
+    PA27,B
+    ~RESET,I
+    PA28,w
+    GND,w
+    VDDCORE,w
+    VDDIN,w
+    PA30,B
+    PA31,B
+</component>

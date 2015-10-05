@@ -1,0 +1,10 @@
+<component refname="U" compname="sp2526A" package="DIP">
+	ENA,I
+	FLGA,O
+	FLGB,O
+	ENB,I
+	OUTB,W
+	GNG,w
+	IN,w
+	OUTA,W
+</component>

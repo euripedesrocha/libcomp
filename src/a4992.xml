@@ -19,6 +19,4 @@
 	CP2,O   
 	OAM,O  
 	VBB,W
-	PAD,W
-	NC,N # overcome odd number of pins :
 </component> 

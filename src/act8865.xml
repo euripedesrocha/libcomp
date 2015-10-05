@@ -1,0 +1,34 @@
+<component refname="U" compname="ACT8865" package="DIP">
+	OUT1,w
+	GA,w
+	OUT4,w
+	OUT5,w
+	INL45,W
+	INL67,W
+	OUT6,w
+	OUT7,w
+	nPBIN,I
+	PWRHLD,I
+	~nRSTO,O
+	~nIRQ,C
+	~nPBSTAT,C
+	GP3,w
+	SW3,O
+	VP3,W
+	PWREN,I
+	NC1,N
+	OUT3,w
+	VSEL,I
+	SCL,I
+	SDA,B
+	VDDREF,W
+	OUT2,w
+	NC2,N
+	VP2,W
+	SW2,O
+	GP2,w
+	GP1,w
+	SW1,O
+	VP1,W
+	REFBP,W
+</component>
